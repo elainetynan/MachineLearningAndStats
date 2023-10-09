@@ -2,6 +2,4 @@
 
 Coursework for Machine Learninng and Statistics
 
-Learning to use Github through VSCode
-
-Switch off editor as commit input (short message only)
+Task 1 completed. Using Newtons method to get the square root of a value.
