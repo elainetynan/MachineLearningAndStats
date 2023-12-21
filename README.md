@@ -11,7 +11,9 @@ Task 2 completed. Using Chi-Square TEsts method to see whether there is any evid
 
 Task 3 completed. Perform a t-test on the famous penguins data set to investigate whether there is evidence of a significant difference in the body mass of male and female gentoo penguins.
 
-Task 3 completed. Using the iris data set,suggest whether the setosa class is easily separable from the other two classes using K-Nearest Neighbor algorithm.
+Task 4 completed. Using the iris data set,suggest whether the setosa class is easily separable from the other two classes using K-Nearest Neighbor algorithm.
+
+Task 5
 
 
 Project
