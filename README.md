@@ -20,3 +20,4 @@ Project
 -------
 
 Project on Classification Algorithms using the Iris flower dataset.
+The following classifications have been anl
